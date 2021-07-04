@@ -16,3 +16,5 @@
 ## 3 执行代码
 
 ### 3.1 在终端运行命令 go run .\hello.go 执行代码成功
+
+## 4 引入自定义模块 example.com/greetings 并使用
